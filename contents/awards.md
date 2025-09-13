@@ -14,5 +14,3 @@
 -  First Prize in China Undergraduate Mathematical Contest in Modeling, 2024.
 
 -  Second Prize in the National College Students' Mathematics Competition, 2023.
-
--  

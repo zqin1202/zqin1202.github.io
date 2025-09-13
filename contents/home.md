@@ -11,6 +11,5 @@ zenithquincy183[at]gmail.com
 
 
 #### Research Interests
-<strong>Ultrasonic, Destructive Testing</strong>
-Robust Optimization
+<strong>Ultrasonic, Destructive Testing</strong>, Robust Optimization
 
