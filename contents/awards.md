@@ -1,16 +1,18 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+#### Scholarships
 
-- National Scholarship for Graduate Student, 2024.
+- National Scholarship（￥10000）, 2024.
 
-- First-Prize Scholarship (CUMT), 2024.
+- 中远海运卓越领航奖学金 (￥5000), 2023.
 
-- First-Prize Scholarship (CUMT), 2023.
 
-- Freshman Scholarship (CUMT), 2022.
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
+#### Competitions
 
-- First-Prize Enterprise Scholarship (CUMT), 2020.
+-  Meritorious Award in Mathematical Contest In Modeling, 2024.
 
-- First-Prize Scholarship (CUMT), 2019.
+-  First Prize in China Undergraduate Mathematical Contest in Modeling, 2024.
+
+-  Second Prize in the National College Students' Mathematics Competition, 2023.
+
+-  

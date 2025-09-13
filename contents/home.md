@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
-#### Contact
-
-Email: senli[at]fas.harvard.edu
+[![zqin1202](https://img.shields.io/badge/zqin1202-github-blue?logo=github)](https://github.com/zqin1202)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Mechanical Engineering, Dalian Martime University & University of Houston, 2022-2026
+
+
+#### Email
+zenithquincy183[at]gmail.com
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+<strong>Ultrasonic, Destructive Testing</strong>
+Robust Optimization
 
